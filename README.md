@@ -1,4 +1,6 @@
-The assignment link is bit.ly/python#task, where # represents the number corresponding to the class activity.
+The presentation material is https://bit.ly/python2print
+
+The assignment is bit.ly/python2task
 
 Steps to Submit:
 To submit your work, use the following commands in order:
@@ -8,7 +10,7 @@ To submit your work, use the following commands in order:
 3. git push origin main
 
 Reflection Questions:
-After submitting, visit bit.ly/pythontask#questions, replacing # with the class activity number, and answer the reflection questions provided.
+After submitting, visit bit.ly/pythontask2questions and answer the reflection questions provided.
 
 Advanced Task (Optional):
 You can proceed with the advanced task only after completing the basic task. Use the same Codespace as the basic task and save the file as advanced_task.py.
